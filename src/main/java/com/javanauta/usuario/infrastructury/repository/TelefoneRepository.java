@@ -1,6 +1,6 @@
 package com.javanauta.usuario.infrastructury.repository;
 
-import com.javanauta.aprendendo_spring.infrastructure.entity.Telefone;
+import com.javanauta.usuario.infrastructury.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
